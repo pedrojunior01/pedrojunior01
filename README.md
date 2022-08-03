@@ -1,6 +1,6 @@
 ## Olá eu sou Pedro Junior, Estudante de programação e tecnologia!
 
-🤖 Criação de chatbots com IBM Assistant.
+🤖 Criação de ChatBots com IBM Watson Assistant.
 
 🖥️ Estudo HTML, CSS,  JavaScript e Python.
 ## Tecnologias que eu uso no meu dia
@@ -11,7 +11,10 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/KVGt4Dp4yOxPfh58tdEw7fw6dl1tkyLXhPmNql3Z8N0/https/i.redd.it/ehnzony1oie81.png?width=498&height=498">
+  <img align="center" alt="premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+  <img align="center" alt="illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+  <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  
   
 </div><br/>
   
